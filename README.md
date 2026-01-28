@@ -70,22 +70,14 @@ Mac / Linux :
 source .venv/bin/activate
 
 Installer les dépendances :
-pip install -r requirements.txt
+pip install streamlit
 
 Lancer l’application :
+ python -m streamlit run app.py
 
-
-streamlit run app.py
-🚀 Déploiement
-Le projet est hébergé sur GitHub
-
-La landing page est publiée via Streamlit Community Cloud
-
-Chaque push sur la branche principale déclenche :
-
-le pipeline CI GitHub Actions
-
-le redéploiement automatique Streamlit
+ lien du déploiement :
+ https://kstore-landing.streamlit.app
+ 
 
 📝 Justifications
 Les décisions Mobile First, responsive et performance sont détaillées dans :
