@@ -6,7 +6,7 @@ Cette landing page a pour objectif de promouvoir un site e-commerce coréen (sna
 
 ---
 
-## 🎯 Objectifs du projet
+##  Objectifs du projet
 
 - Concevoir une landing page **Mobile First** claire et efficace
 - Mettre en place un responsive robuste (progressive enhancement)
@@ -16,7 +16,7 @@ Cette landing page a pour objectif de promouvoir un site e-commerce coréen (sna
 
 ---
 
-## 🧱 Technologies utilisées
+##  Technologies utilisées
 
 - HTML
 - CSS (sans framework)
