@@ -20,7 +20,7 @@ Cette landing page a pour objectif de promouvoir un site e-commerce coréen (sna
 
 - HTML
 - CSS (sans framework)
--  GitHub
+- GitHub
 - GitHub Actions (CI)
 - Streamlit (hébergement de la landing)
 
