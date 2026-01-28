@@ -18,13 +18,12 @@ Cette landing page a pour objectif de promouvoir un site e-commerce coréen (sna
 
 ## 🧱 Technologies utilisées
 
-- HTML5 (structure sémantique)
-- CSS3 (sans framework)
-- Git & GitHub
+- HTML
+- CSS (sans framework)
+-  GitHub
 - GitHub Actions (CI)
 - Streamlit (hébergement de la landing)
 
----
 
 ## 📁 Structure du projet
 
@@ -33,7 +32,6 @@ Cette landing page a pour objectif de promouvoir un site e-commerce coréen (sna
 ├── style.css
 ├── justifications.md
 ├── README.md
-├──lien.txt
 ├── app.py
 ├── requirements.txt
 └── .github/
@@ -56,19 +54,6 @@ dans le navigateur.
 ---
 
 ### 2) Via Streamlit
-
-Créer un environnement virtuel (optionnel mais recommandé) :
-
-
-python -m venv .venv
-Activer :
-
-Windows :
-.venv\Scripts\activate
-
-Mac / Linux :
-source .venv/bin/activate
-
 Installer les dépendances :
 pip install streamlit
 
