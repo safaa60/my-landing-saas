@@ -33,7 +33,7 @@ Cette landing page a pour objectif de promouvoir un site e-commerce coréen (sna
 ├── style.css
 ├── justifications.md
 ├── README.md
-├── mini_rapport_audit_lighthouse_scolaire.docx
+├──lien.txt
 ├── app.py
 ├── requirements.txt
 └── .github/
